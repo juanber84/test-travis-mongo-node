@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/juanber84/test-travis-mongo-node#readme",
   "dependencies": {
+    "bluebird": "^3.5.0",
     "chai": "^3.5.0",
+    "co-mocha": "^1.2.0",
     "mocha": "^3.2.0",
     "mongodb": "^2.2.25"
   }
