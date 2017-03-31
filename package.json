@@ -1,0 +1,24 @@
+{
+  "name": "test-travis-mongo-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanber84/test-travis-mongo-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanber84/test-travis-mongo-node/issues"
+  },
+  "homepage": "https://github.com/juanber84/test-travis-mongo-node#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "mongodb": "^2.2.25"
+  }
+}
